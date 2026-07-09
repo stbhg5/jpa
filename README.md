@@ -8,8 +8,8 @@
     <a href="https://stbhg5.tistory.com/1099">JPA 소개</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>2 JPA 시작하기<h2/>
+    <a href="https://stbhg5.tistory.com/1107">Hello JPA - 프로젝트 생성</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
