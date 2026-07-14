@@ -16,6 +16,7 @@
 <h2>3. 영속성 관리 - 내부 동작 방식<h2/>
     <a href="https://stbhg5.tistory.com/1113">영속성 컨텍스트1</a><br/>
     <a href="https://stbhg5.tistory.com/1115">영속성 컨텍스트2</a><br/>
+    <a href="https://stbhg5.tistory.com/1118">플러시</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
