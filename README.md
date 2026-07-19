@@ -18,6 +18,12 @@
     <a href="https://stbhg5.tistory.com/1115">영속성 컨텍스트2</a><br/>
     <a href="https://stbhg5.tistory.com/1118">플러시</a><br/>
     <a href="https://stbhg5.tistory.com/1120">준영속 상태</a><br/>
+    <a href="https://stbhg5.tistory.com/1121">정리</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
@@ -26,3 +32,4 @@
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
+    
