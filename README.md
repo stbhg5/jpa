@@ -21,8 +21,8 @@
     <a href="https://stbhg5.tistory.com/1121">정리</a><br/>
     <br/><br/>
 
-<h2><h2/>
-    <a href=""></a><br/>
+<h2>4. 엔티티 매핑<h2/>
+    <a href="https://stbhg5.tistory.com/1123">객체와 테이블 매핑</a><br/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
