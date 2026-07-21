@@ -23,7 +23,7 @@
 
 <h2>4. 엔티티 매핑<h2/>
     <a href="https://stbhg5.tistory.com/1123">객체와 테이블 매핑</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/1125">데이터베이스 스키마 자동 생성</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
