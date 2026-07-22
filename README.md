@@ -18,7 +18,7 @@
     <a href="https://stbhg5.tistory.com/1115">영속성 컨텍스트2</a><br/>
     <a href="https://stbhg5.tistory.com/1118">플러시</a><br/>
     <a href="https://stbhg5.tistory.com/1120">준영속 상태</a><br/>
-    <a href="https://stbhg5.tistory.com/1121">정리</a><br/>
+    <a href="https://stbhg5.tistory.com/1121">영속성 관리 - 내부 동작 방식(JPA 내부 구조) - 정리</a><br/>
     <br/><br/>
 
 <h2>4. 엔티티 매핑<h2/>
